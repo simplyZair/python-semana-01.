@@ -7,6 +7,7 @@ print(keyword.kwlist)
 print("¿while es una palabra reservada? Respuesta = "+ str(keyword.iskeyword 
                                                            ("while")))
 print("¿estudiante es una palabra reservada? Respuesta = "+ str(keyword.iskeyword
+<<<<<<< HEAD
                                                                 ("estudiante")))
 
 x = 8
@@ -15,3 +16,6 @@ z = x/y
 
 print(f"{z:.2f}")
 print(f"{x}")
+=======
+                                                                ("estudiante")))
+>>>>>>> 84f64a0 (Continuacion de la sesion 2)
